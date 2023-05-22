@@ -1,0 +1,25 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aquamarine;
+}
+h3{
+    color: rgb(red, green, blue)
+}
+.external{
+    color: brown;
+
+}
+#change{
+
+    color: rgb(red, green, blue);
+}
+.position{
+    margin-left: 100px;
+    border: 2px solid red;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    text-align: center;
+}
